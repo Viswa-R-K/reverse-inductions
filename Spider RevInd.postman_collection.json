@@ -1,0 +1,3839 @@
+{
+	"info": {
+		"_postman_id": "79571d4f-a5ad-4249-927b-601334c8986d",
+		"name": "Spider RevInd",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28423187"
+	},
+	"item": [
+		{
+			"name": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "script"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"js",
+						"main.1291d9f7.js"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "script"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"js",
+						"main.1291d9f7.js"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/Spider-Logo.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/Spider-Logo.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"Spider-Logo.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/DevOps.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/DevOps.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"DevOps.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/EE.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/EE.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"EE.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/Robot.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/Robot.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"Robot.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/AppDev.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/AppDev.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"AppDev.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/Algos.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/Algos.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"Algos.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/UIUX.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/UIUX.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"UIUX.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/ML.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/ML.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"ML.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/Polygon4.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/Polygon4.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"Polygon4.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/WebDev.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/WebDev.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"WebDev.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/double-left.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/double-left.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"double-left.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/domainlist",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "Connection",
+						"value": "close"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/domainlist",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"domainlist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/lauth/generateOtp",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "POST"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "content-type"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/lauth/generateOtp",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"lauth",
+						"generateOtp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/lauth/generateOtp",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Content-Length",
+						"value": "223"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"roll\":\"107122130\",\"recaptcha\":\"HFeW4zahcSFiVJaGwGV0QXVgVqMyFRZRZidB5sARYnMht2Ei9zH2l7JT0yZzUadVE-FCtmHR0xHR1PemItWUJfLRtXLGlYZlEZZFA3f04ee24hAmp1XGkccgsqd1sGFkAAUCB5VRteAiw1eyxABXAhbmdeX0wIZ08MTFIyBg8xXlkdek4odwpACgVtRQ\"}"
+				},
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/lauth/generateOtp",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"lauth",
+						"generateOtp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/lauth/verifyOtp",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "POST"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "content-type"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/lauth/verifyOtp",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"lauth",
+						"verifyOtp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/lauth/verifyOtp",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Content-Length",
+						"value": "35"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"roll\":\"107122130\",\"otp\":\"525981\"}"
+				},
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/lauth/verifyOtp",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"lauth",
+						"verifyOtp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/announcements",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/announcements",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"announcements"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "script"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/announcements"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/js/main.1291d9f7.js",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"js",
+						"main.1291d9f7.js"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"info",
+						"79"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/dashboard/announcements/",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/dashboard/announcements/",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"dashboard",
+						"announcements",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/domains",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/domains",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"domains"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/static/media/Product%20Sans%20Regular.d165384076551a756b3c.ttf",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "font"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/static/css/main.0326b850.css"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/media/Product%20Sans%20Regular.d165384076551a756b3c.ttf",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"media",
+						"Product%20Sans%20Regular.d165384076551a756b3c.ttf"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"info",
+						"79"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/dashboard/announcements/",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/dashboard/announcements/",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"dashboard",
+						"announcements",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/domains",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/domains",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"domains"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/profile",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/announcements"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/profile",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"profile"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/domainlist",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/domainlist",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"domainlist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"info",
+						"79"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/isRegistrationOpen",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/isRegistrationOpen",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"isRegistrationOpen"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/isInducted",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "POST"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "content-type,token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/isInducted",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"isInducted"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/isInducted",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Content-Length",
+						"value": "28"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"menteeId\":79,\"domainId\":1}"
+				},
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/isInducted",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"isInducted"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/faq",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/profile"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/faq",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"faq"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/submissions",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/faq"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/submissions",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"submissions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/submissions",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/submissions",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"submissions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/submissions",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/submissions",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"submissions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/tasks",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/submissions"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/tasks",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/assigned",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/assigned",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"assigned"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/general/domains",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/general/domains",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"general",
+						"domains"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/assigned",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/assigned",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"assigned"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/select/8",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/select/8",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"select",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/tasks/select/8",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzksInJvbGwiOiIxMDcxMjIxMzAiLCJpYXQiOjE2OTE4OTcyODQsImV4cCI6MTY5NDQ4OTI4NH0.K4BhCAEbOAZVs0BTjPUfEPDUWL-kOD1H2I9V7xMCraM"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/tasks/select/8",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"select",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/dashboard/people",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/dashboard/tasks/8"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/dashboard/people",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"dashboard",
+						"people"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/dashboard/mentorsMentees/",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/dashboard/mentorsMentees/",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"dashboard",
+						"mentorsMentees",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+			"request": {
+				"method": "OPTIONS",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductionsapis.spider-nitt.org"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Access-Control-Request-Method",
+						"value": "GET"
+					},
+					{
+						"key": "Access-Control-Request-Headers",
+						"value": "token"
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-site"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductionsapis.spider-nitt.org/api/user/info/79",
+					"protocol": "https",
+					"host": [
+						"inductionsapis",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"api",
+						"user",
+						"info",
+						"79"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/faq-webdev.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/faq-webdev.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"faq-webdev.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/WebDev.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/WebDev.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"WebDev.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/faq-Workflow.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/faq-Workflow.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"faq-Workflow.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/faq-general.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/faq-general.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"faq-general.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/static/media/chevronDown.b58fff867f5fb136424a.svg",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "no-cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "image"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/static/css/main.0326b850.css"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/media/chevronDown.b58fff867f5fb136424a.svg",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"media",
+						"chevronDown.b58fff867f5fb136424a.svg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://inductions.spider-nitt.org/static/media/Product%20Sans%20Regular.d165384076551a756b3c.ttf",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Host",
+						"value": "inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": ""
+					},
+					{
+						"key": "Origin",
+						"value": "https://inductions.spider-nitt.org"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"\""
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "font"
+					},
+					{
+						"key": "Referer",
+						"value": "https://inductions.spider-nitt.org/static/css/main.0326b850.css"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					}
+				],
+				"url": {
+					"raw": "https://inductions.spider-nitt.org/static/media/Product%20Sans%20Regular.d165384076551a756b3c.ttf",
+					"protocol": "https",
+					"host": [
+						"inductions",
+						"spider-nitt",
+						"org"
+					],
+					"path": [
+						"static",
+						"media",
+						"Product%20Sans%20Regular.d165384076551a756b3c.ttf"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
